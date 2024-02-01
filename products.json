@@ -52,11 +52,11 @@
 		"price": "$60.00",
 		"images": [
 			{
-				"url": "./assets/jeans-blue.png",
+				"url": "jeans-blue.png",
 				"color": "#2C88B3"
 			},
 			{
-				"url": "./assets/jeans-black.png",
+				"url": "jeans-black.png",
 				"color": "#505654"
 			}
 		]
